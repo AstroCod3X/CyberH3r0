@@ -1,4 +1,4 @@
-- 👋 Hi, myself @Astro-Cod3x
+- 👋 Hi, myself @AstroCod3x
 - 👀 interested in Computers
 - 🌱 Currently learning Cyber Security offensive
 - 💞 Feel free to ask or guide
